@@ -8,7 +8,7 @@ https://mysterious-river-23731.herokuapp.com/notes
 
 ## Description
 
-This is an application that allows users to manage their personal finances. 
+This site will allow users to take, save, and delete notes. 
 
 ## Table of Contents 
 
