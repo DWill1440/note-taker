@@ -4,7 +4,6 @@
   "description": "Note taking application",
   "main": "server.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1",
     "start": "node server.js"
   },
   "author": "DeMario Williams",
@@ -20,5 +19,9 @@
   "bugs": {
     "url": "https://github.com/DWill1440/note-taker/issues"
   },
-  "homepage": "https://github.com/DWill1440/note-taker#readme"
+  "homepage": "https://github.com/DWill1440/note-taker#readme",
+  "directories": {
+    "lib": "lib"
+  },
+  "devDependencies": {}
 }
